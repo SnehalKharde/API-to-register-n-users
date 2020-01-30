@@ -1,5 +1,9 @@
 # Api-for-testing-purpose
 
+Clone the project on your local environment
+
+install npm packages required using `npm i`
+
 Execute using `node app.js`
 
 Open postman
